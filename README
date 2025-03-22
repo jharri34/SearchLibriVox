@@ -1,0 +1,18 @@
+# SearchLibriVox
+SearchLibravox is a smart tool designed to scan your personal digital library and help you find free audiobooks. Simply upload your collection of digital book titles, and SearchLibravox will automatically search Librivox.org to check which of your books are available in audiobook format. The app then returns a neatly organized list showing:
+
+✅ Books that do have free Librivox audiobooks
+
+❌ Books that don’t currently have an audiobook version
+
+Perfect for readers who want to enjoy their favorite books hands-free, SearchLibravox makes it easy to connect your digital reads with spoken word versions—without the hassle of manual searching.
+
+
+https://sites.google.com/chromium.org/driver/
+https://selenium-python.readthedocs.io/api.html#selenium.webdriver.remote.webdriver.WebDriver.get
+https://sites.google.com/chromium.org/driver/getting-started?authuser=0
+https://learn.microsoft.com/en-us/microsoft-edge/webdriver-chromium/?tabs=python
+https://pypi.org/project/chromedriver-binary/
+
+pip install chromedriver-binary-auto
+pip install selenium 
